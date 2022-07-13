@@ -1,2 +1,2 @@
-# cyclistic1
+# cyclistic
 google_capstone
